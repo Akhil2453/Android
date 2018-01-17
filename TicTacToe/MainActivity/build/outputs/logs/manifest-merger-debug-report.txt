@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:5:5-24:19
+activity#com.example.akhil.tictactoe.MainActivity.MainActivity
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:6:9-23:20
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:6:19-47
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:7:13-17:29
+	android:order
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:7:28-45
+action#android.intent.action.VIEW
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.BROWSABLE
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:10:27-75
+category#android.intent.category.DEFAULT
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:11:27-73
+data
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:13:17-16:46
+	android:host
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:14:21-47
+	android:scheme
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:16:21-43
+	android:pathPattern
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:15:21-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		ADDED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
+		INJECTED from A:\Courses\Udemy\AndroidN\TicTacToe\MainActivity\src\main\AndroidManifest.xml
